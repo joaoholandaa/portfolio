@@ -4,7 +4,7 @@
 
 ## Educação
 - Bacharelado, Eng. de Software | UNOPAR (_Fev 2023 - Jul 2026_)								       		
-- Licenciatura, Física	| UFPI (_Interrompida_)	 			        		
+- Licenciatura, Física	| UFPI (_Interrompido_)	 			        		
   
 ## Experiência de Trabalho
 **Pesquisador @ FAPEPI (_Out 2022 - Presente_)**
