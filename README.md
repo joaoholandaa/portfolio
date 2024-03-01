@@ -3,8 +3,8 @@
 #### Habilidades Técnicas: Python, DataViz, Machine Learning, Deep Learning, Web Scraping, SQL, ETL, Estatística.
 
 ## Educação
-- Bacharelado, Engenharia de Software | UNOPAR (_Fev 2023 - Jul 2026_)								       		
-- Licenciatura, Física	| Universidade Federal do Piauí (_Interrompida_)	 			        		
+- Bacharelado, Eng. de Software | UNOPAR (_Fev 2023 - Jul 2026_)								       		
+- Licenciatura, Física	| UFPI (_Interrompida_)	 			        		
   
 ## Experiência de Trabalho
 **Pesquisador @ FAPEPI (_Out 2022 - Presente_)**
