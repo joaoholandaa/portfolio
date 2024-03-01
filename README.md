@@ -26,25 +26,25 @@
 
 Análise do mercado de criptomoedas. 
 
-<img src="/portfolio/assets/img/bitcoin.png" width="400" height="325">
+<img src="/portfolio/assets/img/bitcoin.png" width="400" height="320">
 
 ### PIB
 [Repósitorio do Projeto](https://github.com/joaoholandaa/pib-web-scraping-dataviz)
 
 Projeto de Web Scraping e DataViz do PIB nominal mundial.
 
-<img src="/portfolio/assets/img/pib.png" width="400" height="325">
+<img src="/portfolio/assets/img/pib.png" width="400" height="320">
 
 ### Incêndios Florestais
 [Repósitorio do Projeto](https://github.com/joaoholandaa/incendios-florestais)
 
 Análise de dados sobre incêndios florestais no Brasil. 
 
-<img src="/portfolio/assets/img/incendio-florestal.jpg" width="400" height="325">
+<img src="/portfolio/assets/img/incendio-florestal.jpg" width="400" height="320">
 
 ### PS4
 [Repósitorio do Projeto](https://github.com/joaoholandaa/ps4-games)
 
 Projeto para análise do mercado de vendas de jogos do PlayStation 4. 
 
-<img src="/portfolio/assets/img/ps4.jpg" width="400" height="325">
+<img src="/portfolio/assets/img/ps4.jpg" width="400" height="320">
