@@ -33,7 +33,7 @@ Construção de um modelo preditivo para otimização de vendas utilizando o alg
 
 Análise de sentimentos e avaliações dos clientes em relação à empresa.
 
-<img src="/portfolio/assets/img/sentimento-clientes.png" width="400" height="310">
+<img src="/portfolio/assets/img/sentimento.png" width="400" height="310">
 
 ### Sistema de Recomendação de Livros
 [Repósitorio do Projeto](https://github.com/joaoholandaa/sistema-de-recomendacao-livros)
