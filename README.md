@@ -1,6 +1,6 @@
 # Cientista de Dados
 
-#### Habilidades Técnicas: Python, DataViz, Machine Learning, Deep Learning, Web Scraping, SQL, ETL, Estatística.
+#### Habilidades Técnicas: Python, DataViz, Machine Learning, Deep Learning, Web Scraping, SQL, ETL, Estatística, Power BI.
 
 ## Educação
 - Bacharelado, Eng. de Software | UNOPAR (_Fev 2023 - Jul 2026_)								       		
