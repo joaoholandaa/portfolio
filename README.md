@@ -28,10 +28,10 @@ Construção de um modelo preditivo para otimização de vendas utilizando o alg
 
 <img src="/portfolio/assets/img/previsao-vendas.jpg" width="400" height="310">
 
-### Avaliação dos Clientes (E-Commerce)
+### Avaliações de Clientes (E-Commerce)
 [Repósitorio do Projeto](https://github.com/joaoholandaa/sentimentos-clientes-ecommerce)
 
-Análise de sentimentos e avaliações dos clientes em relação à empresa.
+Análise de sentimentos e avaliações de clientes em relação à empresa.
 
 <img src="/portfolio/assets/img/sentimento.png" width="400" height="310">
 
